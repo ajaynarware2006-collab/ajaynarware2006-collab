@@ -1,28 +1,33 @@
-name: Generate profile assets
+name: GitHub Profile Automation
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *" # Runs every day at 12:00 AM UTC
+  workflow_dispatch:
   push:
-    branches: [ main ]
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
+
   snake:
+
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - name: Generate contribution snake
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ajaynarware2006-collab
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake SVGs to the output branch
+      - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -31,22 +36,41 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   streak:
+
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
+
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats (self-hosted, always-on)
+      - name: Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&background=0D1117&border=764BA2&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakLabel=764BA2&hide_border=true
+          options: >
+            user=ajaynarware2006-collab&
+            theme=tokyonight&
+            hide_border=true&
+            background=0D1117&
+            ring=764BA2&
+            fire=667EEA&
+            stroke=667EEA&
+            currStreakLabel=764BA2
           path: profile/streak.svg
 
-      - name: Commit streak stats
+      - name: Commit Streak
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git commit -m "Update streak" || exit 0
           git push
+
+  waka:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
