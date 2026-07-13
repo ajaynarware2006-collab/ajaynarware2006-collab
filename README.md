@@ -286,8 +286,6 @@ AI-powered placement management platform.
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajaynarware2006-collab&theme=tokyo-night"/>
-
 </div>
 
 ---
@@ -301,8 +299,8 @@ AI-powered placement management platform.
 <source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/ajaynarware2006-collab/ajaynarware2006-collab/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/ajaynarware2006-collab/ajaynarware2006-collab/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ajaynarware2006-collab/ajaynarware2006-collab/output/github-contribution-grid-snake-dark.svg">
 
 <img alt="Snake Animation"
 src="https://raw.githubusercontent.com/ajaynarware2006-collab/ajaynarware2006-collab/output/github-contribution-grid-snake.svg"/>
@@ -328,12 +326,6 @@ src="https://raw.githubusercontent.com/ajaynarware2006-collab/ajaynarware2006-co
 </div>
 
 <br><br>
-
-<!--START_SECTION:waka-->
-```text
-No activity tracked yet...
-```
-<!--END_SECTION:waka-->
 
 </div>
 
