@@ -5,7 +5,8 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&duration=2500&center=true&vCenter=true&width=850&color=667EEA&lines=AI+Engineer+in+Progress;Python+Developer;Building+Real-World+AI+Projects;Backend+Developer;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&duration=2500&center=true&vCenter=true&width=850&color=667EEA&lines=AI+Engineer+in+Progress;Python+Developer;Building+Real+World+AI+Projects;Backend+Developer;Always+Learning" alt="Typing SVG" />
+</a>
 </a>
 
 <br><br>
@@ -24,37 +25,16 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-```python
-class AjayNarware:
+- 🎓 **B.Tech CSE (AI/ML)** @ IPS Academy, Indore
+- 🤖 Aspiring **AI Engineer**
+- 🐍 Python Developer
+- 🗄 PostgreSQL Enthusiast
+- 📊 Building real-world AI & Data projects
+- 🚀 Open to AI & Software Engineering Internships
 
-    def __init__(self):
-
-        self.role = "AI Engineer"
-
-        self.education = "B.Tech CSE (AI/ML)"
-
-        self.college = "IPS Academy, Indore"
-
-        self.graduation = 2028
-
-        self.location = "India"
-
-        self.focus = [
-            "Python",
-            "Backend Development",
-            "PostgreSQL",
-            "Machine Learning",
-            "Generative AI"
-        ]
-
-        self.current_goal = "Build AI products that solve real-world problems"
-
-    def life_philosophy(self):
-
-        return "Finish projects. Learn deeply. Ship consistently."
-```
+> *"Build things that matter. Learn deeply. Ship consistently."*
 
 ---
 
@@ -153,7 +133,7 @@ class AjayNarware:
 
 <a href="https://github.com/ajaynarware2006-collab/Personal-Finance-Analytics-SystemV2">
 
-<img src="./assets/finance-cover.png" width="100%"/>
+<img src="https://opengraph.githubassets.com/1/ajaynarware2006-collab/Personal-Finance-Analytics-SystemV2" width="100%"/>
 
 </a>
 
@@ -183,7 +163,7 @@ Interactive personal finance dashboard built using **Python**, **Streamlit**, an
 
 <a href="https://github.com/ajaynarware2006-collab/Ai-Research-Assistant">
 
-<img src="./assets/ai-research-cover.png" width="100%"/>
+<img src="https://opengraph.githubassets.com/1/ajaynarware2006-collab/Ai-Research-Assistant" width="100%"/>
 
 </a>
 
@@ -201,7 +181,7 @@ Research assistant that gathers information, organizes results, and maintains se
 
 <a href="https://github.com/ajaynarware2006-collab/Ai-Research-Assistant">
 
-<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 
 </a>
 
@@ -214,8 +194,8 @@ Research assistant that gathers information, organizes results, and maintains se
 <td width="50%" valign="top">
 
 <a href="https://github.com/ajaynarware2006-collab/student-performance-system">
+<img src="https://opengraph.githubassets.com/1/ajaynarware2006-collab/student-performance-system" width="100%"/>
 
-<img src="./assets/student-cover.png" width="100%"/>
 
 </a>
 
@@ -237,7 +217,7 @@ Analyze student performance data using Python and visualize insights to understa
 
 <a href="https://github.com/ajaynarware2006-collab/student-performance-system">
 
-<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 
 </a>
 
@@ -245,7 +225,7 @@ Analyze student performance data using Python and visualize insights to understa
 
 <td width="50%" valign="top">
 
-<img src="./assets/campus-recruit-cover.png" width="100%"/>
+<img src="https://placehold.co/1200x630/0D1117/764BA2?text=Campus+Recruit+AI" width="100%"/>
 
 ### 🚧 Upcoming Flagship Project
 
@@ -292,9 +272,9 @@ AI-powered placement management platform.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajaynarware2006-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63D2&icon_color=667EEA&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajaynarware2006-collab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaynarware2006-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63D2"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajaynarware2006-collab&layout=compact&theme=tokyonight"/>
 
 <br><br>
 
@@ -306,7 +286,7 @@ AI-powered placement management platform.
 
 <br><br>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ajaynarware2006-collab&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajaynarware2006-collab&theme=tokyo-night"/>
 
 </div>
 
@@ -347,13 +327,6 @@ src="https://raw.githubusercontent.com/ajaynarware2006-collab/ajaynarware2006-co
 
 </div>
 
----
-# ⌨️ Weekly Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 <br><br>
 
 <!--START_SECTION:waka-->
@@ -370,11 +343,11 @@ No activity tracked yet...
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Ajay_narware11?theme=dark&font=JetBrains%20Mono&ext=contest"/>
 
 <br><br>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/Ajay_narware11/">
 
 <img src="https://img.shields.io/badge/Visit%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
@@ -383,14 +356,6 @@ No activity tracked yet...
 </div>
 
 ---
-
-# 🎵 Currently Listening
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=764BA2&bar_color_cover=false"/>
-
-</div>
 
 ---
 
