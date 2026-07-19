@@ -223,48 +223,11 @@ Analyze student performance data using Python and visualize insights to understa
 
 </td>
 
-<td width="50%" valign="top">
-
-<img src="https://placehold.co/1200x630/0D1117/764BA2?text=Campus+Recruit+AI" width="100%"/>
-
-### 🚧 Upcoming Flagship Project
-
-**Campus Recruit AI**
-
-AI-powered placement management platform.
-
-<br>
-
-**Planned Tech Stack**
-
-`FastAPI`
-
-`PostgreSQL`
-
-`Streamlit`
-
-`Generative AI`
-
-</td>
-
 </tr>
 
 </table>
 
 </div>
-
----
-
-# 📈 Project Timeline
-
-```text
-2025 ✅ Personal Finance Analytics System
-2025 ✅ AI Research Assistant
-2025 ✅ Student Performance System
-2026 🚀 Campus Recruit AI
-2026 🚀 AI Resume Analyzer
-2026 🚀 AI Interview Assistant
-```
 
 ---
 
