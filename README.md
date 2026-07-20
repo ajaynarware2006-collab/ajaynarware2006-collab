@@ -48,18 +48,6 @@
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master PostgreSQL
-- ✅ Master Streamlit
-- 🔄 Learn FastAPI
-- 🔄 Complete Machine Learning
-- 🔄 Learn Deep Learning
-- 🔄 Learn Generative AI
-- 🎯 Secure an AI Internship
-
----
-
 # 🛠 Tech Stack
 
 ## Languages
