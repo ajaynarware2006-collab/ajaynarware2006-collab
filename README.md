@@ -245,6 +245,8 @@ Analyze student performance data using Python and visualize insights to understa
 
 <br><br>
 
+<img width="75%" src="https://streak-stats.demolab.com?user=ajaynarware2006-collab&theme=tokyonight&hide_border=true&background=0D1117&ring=8A63D2&fire=667EEA&currStreakLabel=8A63D2"/>
+
 <br><br>
 
 </div>
