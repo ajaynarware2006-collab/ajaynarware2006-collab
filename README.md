@@ -93,22 +93,6 @@
 </p>
 
 ---
-
-# 📚 Current Learning Journey
-
-| Technology | Progress |
-|------------|----------|
-| Python | ██████████ |
-| PostgreSQL | ██████████ |
-| SQL | ██████████ |
-| Git & GitHub | █████████░ |
-| Streamlit | █████████░ |
-| FastAPI | ██████░░░░ |
-| Machine Learning | ████░░░░░ |
-| Deep Learning | ██░░░░░░░ |
-| Generative AI | █░░░░░░░░ |
-
----
 # 🚀 Featured Projects
 
 <div align="center">
