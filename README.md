@@ -38,16 +38,6 @@
 
 ---
 
-# 🚀 What I'm Building
-
-- 🤖 AI-powered applications
-- 📊 Data-driven dashboards
-- 🗄 PostgreSQL-backed systems
-- ⚡ Production-ready Python software
-- 🌐 Interactive Streamlit applications
-
----
-
 # 🛠 Tech Stack
 
 ## Languages
