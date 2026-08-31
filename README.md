@@ -82,6 +82,16 @@
 
 </p>
 
+## ⚙️ How I Build
+
+- 🧩 Understand the problem before writing code
+- 🏗️ Prefer clean, modular architecture
+- 🧪 Test behavior, not implementation details
+- 🔐 Treat security as a feature
+- 📊 Measure before optimizing
+- 🚀 Ship → learn → improve
+
+
 ---
 # 🚀 Featured Projects
 
