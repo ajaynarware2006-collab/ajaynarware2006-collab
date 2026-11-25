@@ -286,7 +286,7 @@ src="https://raw.githubusercontent.com/ajaynarware2006-collab/ajaynarware2006-co
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect Through
 
 <div align="center">
 
